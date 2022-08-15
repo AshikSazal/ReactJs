@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## In this section I learn
+## In this section I learned
 1. Module Introduction
 2. Listening to Events & Working with Event Handlers
 3. How Component Functions Are Executed

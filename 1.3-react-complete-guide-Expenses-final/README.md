@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## In this section I learned
+### 05 Rendering Lists & Conditional Content
 1. Module Introduction
 2. Rendering Lists of Data
 3. Using Stateful Lists

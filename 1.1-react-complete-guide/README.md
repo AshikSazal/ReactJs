@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## In this section I learned
+### 03 React Basics & Working With Components
 1. Module Introduction
 2. What Are Components_ And Why Is React All About Them_
 3. React Code Is Written In A _Declarative Way_!

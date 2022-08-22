@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1 Module Introduction
 2 What are _Side Effects_ & Introducing useEffect
 3 Using the useEffect() Hook
+
 4 useEffect & Dependencies
 6 Using the useEffect Cleanup Function
 7 useEffect Summary

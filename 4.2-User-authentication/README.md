@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## In this section I learned
 ### 10 Advanced_ Handling Side Effects, Using Reducers & Using the Context API
-1 Module Introduction
+1 Module Introduction <br/>
 2 What are _Side Effects_ & Introducing useEffect
 3 Using the useEffect() Hook
 4 useEffect & Dependencies

@@ -4,15 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## In this section I learned
 ### 10 Advanced_ Handling Side Effects, Using Reducers & Using the Context API
-1 Module Introduction
-2 What are _Side Effects_ & Introducing useEffect
-3 Using the useEffect() Hook
-4 useEffect & Dependencies
-6 Using the useEffect Cleanup Function
-7 useEffect Summary
-8 Introducing useReducer & Reducers In General
-9 Using the useReducer() Hook
-10 useReducer & useEffect
-12 useReducer vs useState for State Management
-13 Introducing React Context (Context API)
-14 Using the React Context API
+1 Module Introduction <br/>
+2 What are _Side Effects_ & Introducing useEffect <br/>
+3 Using the useEffect() Hook <br/>
+4 useEffect & Dependencies <br/>
+6 Using the useEffect Cleanup Function <br/>
+7 useEffect Summary <br/>
+8 Introducing useReducer & Reducers In General <br/>
+9 Using the useReducer() Hook <br/>
+10 useReducer & useEffect <br/>
+12 useReducer vs useState for State Management <br/>
+13 Introducing React Context (Context API) <br/>
+14 Using the React Context API <br/>
+15 Tapping Into Context with the useContext Hook <br/>
+16 Making Context Dynamic <br/>

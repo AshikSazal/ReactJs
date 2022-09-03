@@ -106,7 +106,7 @@ const Login = (props) => {
           ref={emailInputRef}
           id="email"
           label="E-Mail"
-          typy="email"
+          type="email"
           isValid={emailIsValid}
           value={emailState.value}
           onChange={emailChangeHandler}

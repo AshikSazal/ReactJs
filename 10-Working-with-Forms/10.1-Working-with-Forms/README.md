@@ -4,18 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## In this section I learned
 ### 16 Working with Forms & User Input
-001 Module Introduction
-002 Our Starting Setup
-003 What's So Complex About Forms_
-004 Dealing With Form Submission & Getting User Input Values
-005 Adding Basic Validation
-006 Providing Validation Feedback
-007 Handling the _was touched_ State
-008 React To Lost Focus
-009 Refactoring & Deriving States
-010 Managing The Overall Form Validity
-011 Adding A Custom Input Hook
-012 Re-Using The Custom Hook
-013 A Challenge For You!
-014 Applying Our Hook & Knowledge To A New Form
-015 Summary
+1. Module Introduction <br>
+2. Our Starting Setup <br>
+3. What's So Complex About Forms_ <br>
+4. Dealing With Form Submission & Getting User Input Values <br>
+5. Adding Basic Validation <br>
+6. Providing Validation Feedback <br>
+7. Handling the _was touched_ State <br>
+8. React To Lost Focus <br>
+9. Refactoring & Deriving States <br>
+10. Managing The Overall Form Validity <br>
+11. Adding A Custom Input Hook <br>
+12. Re-Using The Custom Hook <br>
+13. A Challenge For You! <br>
+14. Applying Our Hook & Knowledge To A New Form <br>
+15. Summary <br>

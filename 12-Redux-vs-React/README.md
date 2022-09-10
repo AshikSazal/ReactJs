@@ -23,3 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 17. Adding State Slices (install react Toolkit: npm install @reduxjs/toolkit)
 18. Connecting Redux Toolkit State
 19. Migrating Everything To Redux Toolkit
+20. Working with Multiple Slices
+21. Reading & Dispatching From A New Slice
+22. Splitting Our Code
+23. Summary

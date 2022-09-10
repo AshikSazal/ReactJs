@@ -20,3 +20,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 14. Working with Multiple State Properties
 15. How To Work With Redux State Correctly
 16. Redux Challenges & Introducing Redux Toolkit
+17. Adding State Slices (install react Toolkit: npm install @reduxjs/toolkit)
+18. Connecting Redux Toolkit State
+19. Migrating Everything To Redux Toolkit

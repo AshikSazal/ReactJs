@@ -16,3 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 10. Using Redux Data in React Components
 11. Dispatching Actions From Inside Components
 12. Redux with Class-based Components
+13. Attaching Payloads to Actions
+14. Working with Multiple State Properties
+15. How To Work With Redux State Correctly
+16. Redux Challenges & Introducing Redux Toolkit

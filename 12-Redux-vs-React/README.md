@@ -15,3 +15,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 9. Providing the Store
 10. Using Redux Data in React Components
 11. Dispatching Actions From Inside Components
+12. Redux with Class-based Components

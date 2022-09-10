@@ -9,3 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Redux vs React Context
 4. How Redux Works
 5. Exploring The Core Redux Concepts
+6. More Redux Basics
+7. Preparing a new Project
+8. Creating a Redux Store for React
+9. Providing the Store
+10. Using Redux Data in React Components
+11. Dispatching Actions From Inside Components

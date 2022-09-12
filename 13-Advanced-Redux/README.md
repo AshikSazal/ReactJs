@@ -10,3 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Refresher _ Practice_ Part 2_2
 5. Redux & Async Code
 6. Frontend Code vs Backend Code
+7. Where To Put Our Logic
+8. Using useEffect with Redux
+10. Handling Http States & Feedback with Redux

@@ -13,3 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 7. Where To Put Our Logic
 8. Using useEffect with Redux
 10. Handling Http States & Feedback with Redux
+11. Using an Action Creator Thunk
+12. Getting Started with Fetching Data
+13. Finalizing the Fetching Logic
+14. Exploring the Redux DevTools
+15. Summary

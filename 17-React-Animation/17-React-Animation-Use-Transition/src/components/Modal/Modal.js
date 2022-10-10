@@ -8,7 +8,7 @@ const animationTiming = {
   exit: 1000
 }
 
-const modal = (props) => {
+const Modal = (props) => {
   return (
     <Transition in={props.show} timeout={animationTiming} mountOnEnter unmountOnExit>
       {(state) => {
@@ -31,4 +31,4 @@ const modal = (props) => {
   );
 };
 
-export default modal;
+export default Modal;

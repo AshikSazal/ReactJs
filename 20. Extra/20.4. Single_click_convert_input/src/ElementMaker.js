@@ -31,7 +31,7 @@ function ElementMaker(props) {
         />
       ) : (
         <span
-          onClick={props.handleDoubleClick}
+          onClick={props.handleSingleClick}
           style={{ display: 'inline-block', height: '25px', minWidth: '300px' }}
         >
           {props.value}

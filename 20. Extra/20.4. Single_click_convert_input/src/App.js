@@ -12,7 +12,7 @@ function App() {
     console.log("Sending value to backend: ", value);
   };
 
-  const handleDoubleClick = () => {
+  const handleSingleClick = () => {
     setShowInputEle(true);
   };
 
@@ -29,7 +29,7 @@ function App() {
         <ElementMaker
           value={fullName}
           handleSave={handleSave}
-          handleDoubleClick={handleDoubleClick}
+          handleSingleClick={handleSingleClick}
           handleBlur={handleBlur}
           showInputEle={showInputEle}
         />
